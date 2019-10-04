@@ -8,14 +8,14 @@ To make each individual best-practice easily sharable.
 Contributions
 =============
 
-Pull requests welcome from all. There are plenty of entries below waiting to be written up. More details can be [found here](TODO).
+Pull requests welcome from all. There are plenty of entries below waiting to be written up. [More details can be found here](https://github.com/RvPr/Awesome-Best-Practices/blob/master/Internal-README.md).
 
 Coding Best Practices
 =====================
 
-- [Prefer Composition over Inheritance](TODO)
-- [Always use descriptive names](TODO)
-- [Avoid Nulls](TODO)
+- [Prefer Composition over Inheritance](https://github.com/RvPr/Awesome-Best-Practices/blob/master/coding/composition-over-inheritance.md)
+- [Always use descriptive names](https://github.com/RvPr/Awesome-Best-Practices/blob/master/coding/descriptive-names.md)
+- [Avoid Nulls](https://github.com/RvPr/Awesome-Best-Practices/blob/master/coding/avoid-nulls.md)
 - Avoid nested code
 - Prefer immutability
 - Prefer code reuse
@@ -28,7 +28,7 @@ Coding Best Practices
 Design Best Practices
 =====================
 
-- [Prefer alerting over silently hiding bugs](TODO)
+- [Prefer alerting over silently hiding bugs](https://github.com/RvPr/Awesome-Best-Practices/blob/master/design/prefer-alerting.md)
 - Never prematurely micro-optimize
 - Avoid big-bang switchovers
 - Prefer restricting visibility
@@ -36,4 +36,4 @@ Design Best Practices
 Testing Best Practices
 =======================
 
-- [Prefer testing state over testing behavior](TODO)
+- [Prefer testing state over testing behavior](https://github.com/RvPr/Awesome-Best-Practices/blob/master/testing/prefer-testing-state-over-behavior.md)

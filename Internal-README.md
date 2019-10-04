@@ -10,7 +10,7 @@ This project does not attempt to be a democracy. The project maintainers will ex
 Format
 ========
 
-All entries should [use the format laid out in this template](TODO).
+All entries should [use the format laid out in this template](https://github.com/RvPr/Awesome-Best-Practices/blob/master/template.md).
 
 Terminology
 ===========

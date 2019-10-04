@@ -27,7 +27,7 @@ This section is crucial. If you can't find qualifying sources, that's a sign tha
 Examples
 ---------
 Bad:
-```
+```java
 public void codeBeforeApplyingGuideline() {
   thisIsNotAStrawman();
   thisCodeIsRealisticAndReasonable();
@@ -35,7 +35,7 @@ public void codeBeforeApplyingGuideline() {
 ```
 
 Better:
-```
+```java
 public void codeAfterApplyingGuideline() {
   rejoice();
 }
@@ -47,4 +47,4 @@ Caveats, on when the guideline should not be followed, or pitfalls to watch out 
 
 ----
 
-*See other [recommended best practices here](TODO).*
+*See other [recommended best practices here](https://github.com/RvPr/Awesome-Best-Practices/blob/master/README.md).*

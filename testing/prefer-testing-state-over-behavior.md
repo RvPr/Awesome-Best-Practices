@@ -55,4 +55,4 @@ For example, consider a meta-sort method that is supposed to use BubbleSort for 
 
 ----
 
-*See other [recommended best practices here](TODO).*
+*See other [recommended best practices here](https://github.com/RvPr/Awesome-Best-Practices/blob/master/README.md).*

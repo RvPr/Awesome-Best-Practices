@@ -126,4 +126,4 @@ The smaller the scope of a variable, the more concise its name can be.
 
 ----
 
-*See other [recommended best practices here](TODO).*
+*See other [recommended best practices here](https://github.com/RvPr/Awesome-Best-Practices/blob/master/README.md).*

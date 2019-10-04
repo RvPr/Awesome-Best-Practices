@@ -67,4 +67,4 @@ You can also use this as an intermediate step, and fail-fast at a later date onc
 
 ----
 
-*See other [recommended best practices here](TODO).*
+*See other [recommended best practices here](https://github.com/RvPr/Awesome-Best-Practices/blob/master/README.md).*

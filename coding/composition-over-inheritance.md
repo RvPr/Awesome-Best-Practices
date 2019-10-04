@@ -158,4 +158,4 @@ In such cases, if the scope of your new class is very limited, you may want to u
 
 ----
 
-*See other [recommended best practices here](TODO).*
+*See other [recommended best practices here](https://github.com/RvPr/Awesome-Best-Practices/blob/master/README.md).*
