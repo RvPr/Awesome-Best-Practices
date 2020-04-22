@@ -19,9 +19,9 @@ Terminology
 
 **Prefer/Avoid**: Guideline is generally applicable, but there are many instances where it makes sense to set it aside
 
-**Design**: Anything that changes the behavior of the system 
+**Design**: Anything that significantly changes the behavior of the system 
 
-**Coding**: Anything that doesn't have a functional impact, but changes the experience of reading/writing code. 
+**Coding**: Anything that doesn't have a major functional impact, but increases bug-risk or lowers developer productivity. 
 
 Contributions
 =============
