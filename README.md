@@ -29,7 +29,7 @@ Design Best Practices
 =====================
 
 - [Prefer alerting over silently hiding bugs](https://github.com/RvPr/Awesome-Best-Practices/blob/master/design/prefer-alerting.md)
-- Never prematurely micro-optimize
+- [Avoid premature optimizations](https://github.com/RvPr/Awesome-Best-Practices/blob/master/design/avoid-premature-optimizations.md)
 - Avoid big-bang switchovers
 - Prefer restricting visibility
 
