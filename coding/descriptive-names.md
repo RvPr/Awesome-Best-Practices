@@ -99,7 +99,7 @@ LocalDate getDate();
 
 Bad:
 ```java
-public List<int[]> getThem() {
+List<int[]> getThem() {
   List<int[]> list1 = new ArrayList<>();
   for (int[] x : theList)
     if (x[0] == 4)
@@ -110,11 +110,11 @@ public List<int[]> getThem() {
 
 Better:
 ```java
-public List<Cell> getFlaggedCells() {
+List<Cell> getFlaggedCells() {
   List<Cell> flaggedCells = new ArrayList<>();
-  for (Cell cell : gameBoard)
-    if (cell.isFlagged())
-      flaggedCells.add(cell);
+  for (Cell cell : gameBoard) {
+    if (cell.isFlagged()) { flaggedCells.add(cell); }
+  }
   return flaggedCells;
 }
 ```

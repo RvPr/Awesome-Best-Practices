@@ -25,7 +25,7 @@ Examples
 ---------
 Bad:
 ```java
-public String getGreeting() {
+String getGreeting() {
   try {
     return "Hello " + getName();
   } catch (Exception e) {
@@ -36,7 +36,7 @@ public String getGreeting() {
 
 Better (with alerting):
 ```java
-public String getGreeting() {
+String getGreeting() {
   try {
     return "Hello " + getName();
   } catch (Exception e) {
@@ -48,7 +48,7 @@ public String getGreeting() {
 
 Better (with fail-fast):
 ```java
-public String getGreeting() {
+String getGreeting() {
   return "Hello " + getName();
 }
 ```

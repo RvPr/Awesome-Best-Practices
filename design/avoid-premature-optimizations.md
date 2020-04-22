@@ -13,19 +13,19 @@ The majority of the time, the resulting performance benefits are trivial and not
 
 References
 ---------
-- ["Premature optimization is the root of all evil"](https://en.wikipedia.org/wiki/Program_optimization)
+- ["Premature optimization is the root of all evil"](https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize)
   
 Examples
 ---------
 Bad:
 ```java
 // Using Arrays to minimize access time and heap-space 
-private static final String[] NAMES = new string[] {"Rajiv", "Roger", "Riu"}; 
+static final String[] NAMES = new string[] {"Rajiv", "Roger", "Riu"}; 
 ```
 
 Better:
 ```java
-private static final Collection<String> NAMES = ImmutableList.of("Rajiv", "Roger", "Riu");
+static final Collection<String> NAMES = ImmutableList.of("Rajiv", "Roger", "Riu");
 ```
 
 ----------
