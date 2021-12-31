@@ -1,4 +1,4 @@
-Entry Name
+Prefer Testing State over Testing Behavior
 ============
 
 Guideline
